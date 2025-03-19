@@ -12,7 +12,9 @@
 
 }
 
-
+.align {
+  text-align: center"
+}
 .caveat {
   font-family: "Caveat", cursive;
 
