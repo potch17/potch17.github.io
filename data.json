@@ -1,5 +1,906 @@
-{	
-  "text":"phonics reading challenge",
+[
+1 {	
+  "text":"phonics reading challenge 1",
   "image": "",
   "type": "type1"
 },
+a {	
+  "text":"a",
+  "image": "",
+  "type": "type1"
+},
+a {	
+  "text":"cat",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzspbCaBWuK4eP1nXYagT-NQhGu9T-ErExaQJCGnp92aoz_VzL4nWyKQ-iaObq9ovSioMqyQamLqQWBdocZ7blJPVAJ7WYWulUsDyVqjYYDdd3gE7qHplGkrQOavNM93lc00cUjqER0ezv/s800/cat05_moyou_gray_moyou_white.png",
+  "type": "type2"
+},
+a {	
+  "text":"sat",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJgef8-zAhtZ96saJGc4WglGcd0IR92YY4ytfuL8RjHsnD4RGJdDdvuMrOk6FBQtjsOP2ALQhAPgzVVA05d3cYg_lEmAHLkqhG22Va4Y5LFJ8mh1m-kKJgqr95EWthAD-lM-HIGBoB8rZb/s400/manner_suwaru_boy.png",
+  "type": "type2"
+},
+a {	
+  "text":"mat",
+  "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR4uDTOzGIWQok6u1v4lZCsdWFsoWtm_YEowkAWD-0AqHMVZvW-sdNqCQEyTu1fz1Z-uXhubz79fXyS_pr5DkU6ctYLXA15xPnLUrYCtsvweJMht7Iu0qUOXZeL4kprPPIzhSjlIO3wp3O/s1600/genkan_mat_green.png",
+  "type": "type2"
+},
+2 {	
+  "text":"phonics reading challenge 2",
+  "image": "",
+  "type": "type1"
+},
+b {	
+  "text":"b",
+  "image": "",
+  "type": "type1"
+}
+b {	
+  "text":"big",
+  "image": "https://st2.depositphotos.com/1763191/9084/v/450/depositphotos_90840226-stock-illustration-two-balls-one-big-and.jpg",
+  "type": "type2"
+}
+b {	
+  "text":"black",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivlcLxdFFl9clMzpE8SMdjP5FHnykWBs3sf7Ib3eJ5o_UxLDb7v4u85Jh7m-df2FQ5fh-wH64yblz7GQdqH-iQWgSJWVWABYdqUHyT36jtU7PAyyw0ZQWy-bUNyGwuCUQ3HLK_glyszsBA/s300/ink_blot1.png",
+  "type": "type2"
+}
+b {	
+  "text":"bag",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLTYuyHn1DUxCX6I3KGZ7yw-Mbq9T25twGoY5w9oI5ehDSDAVrPb9rushxyO1bu1GjbHe7tOluKKn7pCBrL2M5ygS0rRePDZmN-Ey2HG7nEihPJqvdQXIIRv7YsLICyvZUhgcAUATB2E_v/s400/bag_enamel.png",
+  "type": "type2"
+}
+3 {	
+  "text":"phonics reading challenge 3",
+  "image": "",
+  "type": "type1"
+},
+c {	
+  "text":"c",
+  "image": "",
+  "type": "type1"
+}
+c {	
+  "text":"carrot",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi29X1EjT6gfc-jQY9Cllym4znwxreuiGK84lq_hAcXCtlQUKSnVc4OvEP8oElgFVmNeL1gq6PGF1Peo3j1roxz88xG1SszfBWhiBCCIVnjpTJrKfJHo1DgrOtNCp2RTChbAx54z2sdc0ma/s800/ninjin_carrot.png",
+  "type": "type2"
+}
+c {	
+  "text":"cake",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9TZRmaZpy9k1kBfl1aE_ToTmjHMzJjy5ZTofOEcrutb2Fud4nV7-vqAFld1M0mADa9B49Xy8Jy5daz15fIohoOkmF_HZA_DPsa07MkFgpk4DEttRAeStIKUZUK-wePK2xA1LppeJKwHTg/s800/sweets_chocolate_cake_sachertorte.png",
+  "type": "type2"
+}
+c {	
+  "text":"cookie",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie40q4a5tPexkd-HBfQ03zZMo3RCYtfvxecBcXBB1cEWyqLNbNbb41teny8Cm4icvaxUwBOAjuZdKHaKzC6kz4apYxfjemxowITQ0MejyhkcTHtgzq4myxKT1UB2tL0TJuC_F2_HAMfn4/s800/cookie3_chocochip.png",
+  "type": "type2"
+}
+4 {	
+  "text":"phonics reading challenge 4",
+  "image": "",
+  "type": "type1"
+},
+d {	
+  "text":"d",
+  "image": "",
+  "type": "type1"
+}
+d {	
+  "text":"dog",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi75O8-HHCVHiryjR8fuJwdcJDmIvj8VC5TxXSQyTJqzZWkQ06bZHFzyEA_tPRdBd6f1a7j2OKwt6Xxm_bGay1gT3VOy7tk_5EhbExxUOnvS0Ec4hA2p0DTBZFQCxZjT9xPtwZeEgZZcG_r/s800/dog_bernese_mountain.png",
+  "type": "type2"
+}
+d {	
+  "text":"drinks",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwvt10lcT_Ws75qcFU9sl-bi6CiN8H4M3zii0P57idVtAyqdJ9GaSltvYXngWJNVJSbz8VZpIDDPfzHStNiEDjCHhM_0pb1a_QBBdYC3c4Ml06mR1vTuL5lQtuvx_G5hSCgackRwlo8sDM/s180-c/drink_glass_koyubi_man.png",
+  "type": "type2"
+}
+d {	
+  "text":"durian",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG2yCzvgu8d8y-xz7FF0BafrSOn2yrvLKEx6MiMHZcG-aVGyfTosv_C1K8eMT1j_uCEd5J0MiEs2yGLYwCjuTTJR5EG24VqY7EFT_3Vcdnamn4U0PpAe0vmPMoIy7Lcgy0VVz5nDWTTC_j/s800/fruit_durian.png",
+  "type": "type2"
+}
+5 {	
+  "text":"phonics reading challenge 5",
+  "image": "",
+  "type": "type1"
+},
+e {	
+  "text":"e",
+  "image": "",
+  "type": "type1"
+}
+e {	
+  "text":"hen",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9rlrWDTT1vXXgtEbkQVlZXCais_lYYefe0-4ISdsgrpBhNMVGqKrGfPK4mUKL0O0vNdX0CSVI7fqMFZUVWfs3hek0rBcTQK5SVs9gTCNw-0uJmLT4reoD1q8-zA4T8RgDEWJAAho3QFPg/s800/bird_niwatori_brown.png",
+  "type": "type2"
+}
+e {	
+  "text":"egg",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizoqef3Ps38TmxGAS7Xr1VfHWgKfPlLRXruzbaAJHJhWb-lH3LQRWSzIofjoKw-KAhzmD7qVkN3Lzl53GPQJVrTRYiTiCvQT3VqvC70FkVs9yZuecuaffBfMlgLxefqb27FnVjQSRHN_p_/s800/columbus_egg.png",
+  "type": "type2"
+}
+e {	
+  "text":"bed",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIM6T9TDOABk07xBUqu_xfFycL4osB9ygEKpw7485Mk0BUNOiIX2wc3bhzEGNHD1rOkTN42FKLD90GmEsXfhLBOtJMubdK1qT7c8AcKLHpNJula5_9KWkbmWFhLaVaPGrHCz-1jnDdPw7Q/s800/kagu_bed.png",
+  "type": "type2"
+}
+6 {	
+  "text":"phonics reading challenge 6",
+  "image": "",
+  "type": "type1"
+},
+f {	
+  "text":"f",
+  "image": "",
+  "type": "type1"
+}
+f {	
+  "text":"fox",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXT7fcrfGnQ0VyXbjrWb6vRFepSarCJ8pnhjmuHbre8G0-K4dzTxcYKGGXGJZddCDy_ObMIxCr7SMi9SPEdH9dvYZvSs8s42WcL8nTqhGAnyRKPj280S0EBqjHHlvN-XqNLnAd_PhvKBI/s800/animal_fox_kitsune.png",
+  "type": "type2"
+}
+f {	
+  "text":"fish",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzMH4NBcJRhtDBU66dapg9S8XZpVNkD7TfAoApd-x9HqzNFSghkqIurlnlC6L51-zORTURklNTBPyKP2NUdRLsr76i6jfEsctRlPP_pkX-EpnrH9N06YP8azlyQt8wgqZjEXcw-VBPQqwg/s180-c/fish_angelfish.png",
+  "type": "type2"
+}
+f {	
+  "text":"fly",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIS1ecAo372Zl_AMIF_MFcwUFsX3TTpjKCZ84gWKEHaGLkRcuY3oKRS740UnxLQPHNpgCERdzoDxVOk-Pefu5zF3ZROZ9Bk0b5_JoT31RJIIYvQWQQkWUqAyx1a4otIltLgrx5vLLjMygj/s180-c/hangrider_man.png",
+  "type": "type2"
+}
+7{	
+  "text":"phonics reading challenge 7",
+  "image": "",
+  "type": "type1"
+},
+g {	
+  "text":"g",
+  "image": "",
+  "type": "type1"
+}
+g {	
+  "text":"goat",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuoYpACHtBs_CoS5HbCmapVIGbku6iDC6Bamdeu1nQB34ZrK1sSTCzOdgeOG6Stf6o9KswI9q6lxMDPPNaLBeN6MYC6M9NKV-uPbz94F4RfQI4Ek6M-2xCW-rA4_UeyXla6dXNgZTqH5Q/s800/seiza01_ohitsuji.png",
+  "type": "type2"
+}
+g {	
+  "text":"green",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRYqx1WV70RbqC4RUTgMH8GEDaUccmc14fhBMCZEkoFWiooSLakhH_Z49IYIYJjwUOa-nDJN3x6S7Lx-fJ4W4fhVoDIklrFPsA9_WA0UxlffArpMugk9eGAc9-XCtqDReDihVwwQX498lm/s800/color_english04_green.png",
+  "type": "type2"
+}
+g {	
+  "text":"grass",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgefcXP5ruTCDZT5bKUmcSYafMwkG3PFK0XSgnWYkEne86eUMalrz5nxX8LNeFY8pY_8C2Bi7E5Nx0F_h-B9ofYamGNSHPZo4vUijaHIMZkZrbr6zl42uEwFyVy8TDBPgYssNA3hxOIBUaf/s800/kusa_simple4.png",
+  "type": "type2"
+}
+8 {	
+  "text":"phonics reading challenge 8",
+  "image": "",
+  "type": "type1"
+},
+h {	
+  "text":"h",
+  "image": "",
+  "type": "type1"
+}
+h {	
+  "text":"horse",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy1uys-UkDbX-g1I1VrD9NgbwL0Ks9tbkXsbp6u1maZQsZts9ca7i6DYJjlXdOwWzHgTKFPCOBzAyL6M1va8TbZ7N-g5AJdajj773NtBu_kdxr7ytaoMsTggeRTrcygO9ndQ0oWqPDp34/s800/animal_horse_thoroughbred_brown.png",
+  "type": "type2"
+}
+h {	
+  "text":"has",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFPvTOiKYv9KFJF78Ixc1pDXtgV5UG0gGY7p6bz_ZArCQ3BWT9N-5XWIlYJMO6NRSyTQFOoDWAnPMLXZp1a07A745KsypICQ6LCYOsHRkP41vyemjuhKDbdfBxd53VjupVVVovM6IOHX-F/s400/pose_motsu_card.png",
+  "type": "type2"
+}
+h {	
+  "text":"hat",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjajiif4T24p4Y-c16dCtLDsb88aUaq9-Z-E-4Vapj1HhzIznR1SymNzHb5tmYJJ8BUsZTWE_twe_oy_UaWcgWnwbUAiI1hRJKAeUpZZ2IXf18JedceEXzyXnKbjCSIL__N7cYatLCnwUgY/s800/fashion_tsuugakubou_hat.png",
+  "type": "type2"
+}
+9 {	
+  "text":"phonics reading challenge 9",
+  "image": "",
+  "type": "type1"
+},
+i {	
+  "text":"i",
+  "image": "",
+  "type": "type1"
+}
+i {	
+  "text":"pig",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1D2TNNmvXOzIz5XsOyqdWE01hA4AHDH4cEdw4AM5hY9qeWfaQPjib5WJ1P9-nx8zBwR2wV9mDRIQ1Qx_U2qO6AjsmD4vKOFdzVhspYsfQ2UrcadRKIFi4JvWU6MxN7Sqc5bwhies-7Hs/s800/animal_pig_buta.png",
+  "type": "type2"
+}
+i {	
+  "text":"wig",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo-5pkUf-bsnKuA02XE0DTFJpog0D9biVlXmXPSDDyuhYW6A-Hf3V3V2e4ukFQXUDzjqNtlR7IBUaKlyfRPE8kxkFrlNsOzB3B79E-ogNKl0Go4-y3xhCrQzV3GjwGfKv0bfVzSEZiocQ/s1600/fashion_katsura.png",
+  "type": "type2"
+}
+i {	
+  "text":"Tim",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizJCaYR_QJRUxCki5zB-tbr16mp1zhwdOy89q10D5l-QWuHXO9MkdFrXCO3t9WEaLBeiGN07r3AEWOKLhZSrrgM3O7pO6VeU-weJTNadVi0ywKfJzP6fy7hn5yWh9HFpcDLY0cpLH43URg/s180-c/soccer_boy_brazil_asia.png",
+  "type": "type2"
+}
+10 {	
+  "text":"phonics reading challenge 10",
+  "image": "",
+  "type": "type1"
+},
+j {	
+  "text":"j",
+  "image": "",
+  "type": "type1"
+}
+j {	
+  "text":"Jack",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3QKeYbH-ykNDVkhay1yAXcNrsjjODTY2CYs9uksl2NpnON1uEmdDl0G3cwVKvaG-r_SbkAhpY0YMrRJpBxWiYP84S6lM999_mkMJPCZMn3DiqmFOrDtlxvwdWsnx_616UcYBEWV-Yix-n/s800/count_boy.png",
+  "type": "type2"
+}
+j {	
+  "text":"jar",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqunQOMRXQhZxP-ZRjoQ5fVnIIGTFSA0EItbucz6fIye-QE5kuhSyENoFpftgl_QeJs4a90D2KlZe3nEBRlyiuG3ekItE_hWLoq17HYlK9XK0Q1zeOwGxFGvXLnUOEwzA8POXZZdkxbbjM/s800/drink_kombucha_kouchakinoko.png",
+  "type": "type2"
+}
+j {	
+  "text":"jam",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUEIW2iKJfNh9FewoRfxzgv17epoMBOhHdcCWi6ZOJhSm9rYzT_VO2yAX_t_CFBToegADHQbB1u2KvWTwM7CHfir19GcfJpUEk1OwAoHzzEuQDHZfaCoQtON_H1RHmKbOMDtZnLPPxd-0/s800/jam05_lemon.png",
+  "type": "type2"
+}
+11 {	
+  "text":"phonics reading challenge 11",
+  "image": "",
+  "type": "type1"
+},
+k {	
+  "text":"k",
+  "image": "",
+  "type": "type1"
+}
+k {	
+  "text":"king",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdZ3EEoZNJ2ScsrKkugLP2ynCeOI8AeLKpFDjyuViEqZmkFoHrSs1B02wmvFq5BrAi_YeD-1oJlJa0753eZIdDx-cP63InrzIKYLbn10X7o4xeq7XqxG8nOYKLZk9etZGrnllwplDEgHg/s800/royal_king.png",
+  "type": "type2"
+}
+k {	
+  "text":"kissed",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmD4FT1MHET2wtgzql7OdCNhJyw4XEXuH2uG6iJpYj_io2sGo-Eab0MLXuE7DfoZKwg5gZoJUa3SO6A4Hd3D-cP4_rA_rWRzUdERYmN2kP9mFd-e3tp6Y9fts9maaN1NQzv_S8u4abqUc/s800/nage_kiss.png",
+  "type": "type2"
+}
+k {	
+  "text":"kangaroo",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPBeIR9BoWjibPBx7x_3XCfg5ZiQfdj6tBznNxKK2KfmZH17gLxEHEoBFHPhhnf9TKjd0dmvpCQ_HgKgUTmaN7B0xNM16T_BT0mnAs-VHqSuvKUNQWV6AON83KeOmyiwvh5dvgHmtafHUX/s841/animal_kangaroo.png",
+  "type": "type2"
+}
+12 {	
+  "text":"phonics reading challenge 12",
+  "image": "",
+  "type": "type1"
+},
+l {	
+  "text":"l",
+  "image": "",
+  "type": "type1"
+}
+l {	
+  "text":"Lily",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiid1I20jbk6ez_0b9rwGT1L15yNRklZj6mISg0aNvV1ulXGA4fwqjbT1xIctYR1EZaXl1JruQkps0H9QvOcB4zmYHI8x9xJhAEiNoRDNPPO1XR5p_itxyZ58OKyDl3jbFhlf_Cv02NpYs/s800/stand1_front02_girl.png",
+  "type": "type2"
+}
+l {	
+  "text":"loves",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTyZw8vF9jPMmMhwqCil-jdT6dU0g7aeAHy3x8O9aunAPMSbs8ytgWfiY8BjYlQQEzNyTemfeb5L-kDZAsMpAWR-SsuqOg36TK5s-PAJdkO0CJig080HyIpulihyphenhyphenCNrmIpoxPVANQaX1_V/s800/pose_heart_hand_woman.png",
+  "type": "type2"
+}
+l {	
+  "text":"lizards",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSwpL-_uEFYqGChhA8-QbXHGF0OOx3-95oQ&s",
+  "type": "type2"
+}
+13 {	
+  "text":"phonics reading challenge 13",
+  "image": "",
+  "type": "type1"
+},
+m {	
+  "text":"m",
+  "image": "",
+  "type": "type1"
+}
+m {	
+  "text":"my",
+  "image": "https://englishunite.com/wp-content/uploads/2021/08/preprimer-my.jpg",
+  "type": "type2"
+}
+m {	
+  "text":"mother",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRhw18ZA7dYiwETwotswZfArtmiEXM8V9EcJn3KZuvA7y-1YusFZhy3nuE5FqKZMZsWN8Ya46QaJT_gDd-WoNeigzXv4QFq9-yFst-CC8YMZg7Fxcq3OTrGxOIaVbCKfh9U51HRCTAfac/s180-c/happy_mothers_day_stamp.png",
+  "type": "type2"
+}
+m {	
+  "text":"milkshakes",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9FJJj_mZY_zDsaoFu1BQmVIOnr3jHPzWqaCybt4UGwM2eoskIO4eoid3rPxy3aQiJmMeB-3GSnRGCvZ2KdyognbO7yIVEYCib1cky-ccA1ityozGq5tIK0JSLMcWnFBfdCl5V7f2RKhI/s800/sweets_drink_shake_chocolate.png",
+  "type": "type2"
+}
+14 {	
+  "text":"phonics reading challenge 14",
+  "image": "",
+  "type": "type1"
+},
+n {	
+  "text":"n",
+  "image": "",
+  "type": "type1"
+}
+n {	
+  "text":"ninety-nine",
+  "image": "https://static.vecteezy.com/system/resources/thumbnails/051/124/042/small_2x/3d-number-99-ninety-nine-made-of-blue-body-with-silver-outline-3d-illustration-png.png",
+  "type": "type2"
+}
+n {	
+  "text":"new",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifv2ijxg4kEtN0AsMeLwaC33hw6caecNPs00IlSJ-YBEBz9U1TT2nkxwsfyiA2fFKvcZddtRdmRT-Mhp53WjV2_oV-ZLF-3xbPdjbQdVnliQVIJJUBNSoZCznV3ng79ji9NYngqAdpQAUT/s1600/smartphone_new.png",
+  "type": "type2"
+}
+n {	
+  "text":"notebooks",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE1HneKffJj_w0mhoeoI6pOhAKwObm96o5rNgIS4axLM33dUfJ2kSOChT_jxhApt-fre5ggfQrNYIUFiyemgRaWdxmh2bv7jx_Wfm_lckMiUL7yzY0WLyV9QsEfMEzjt6RxA66VmqPMI8/s800/zabuton_book_notebook.png",
+  "type": "type2"
+}
+15 {	
+  "text":"phonics reading challenge 15",
+  "image": "",
+  "type": "type1"
+},
+o {	
+  "text":"o",
+  "image": "",
+  "type": "type1"
+}
+o {	
+  "text":"octopus",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVplrYZGmS5o44ghsmVJMc3E8FUgn2FuFWepX4V8wcbTqhWt38zHINneva2t7VdTB7rRGewL1Qjd52HgpHnFveMGdihrT91EzylYje0PWd3o1DqimYTehdtTFm6Dp0aSoVd6pnWOjIQLo/s800/fish_tako_oyogu.png",
+  "type": "type2"
+}
+o {	
+  "text":"ocean",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNsVhxzeo31XrpVkoeCxCDarN-KehbMwfeJMhrKZYTsjKjgL6cxe1YVkPSSSGkUMopty88_YhNzMW-ZXqGi7cAjTKYM7gqcuAXKouNtdJeidUm-ZYGjnul_xZAiNlzKS24SSTCXX5CWe8e/s800/bg_ocean_suiheisen.jpg",
+  "type": "type2"
+}
+o {	
+  "text":"oranges",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYEztThTEEs7a9CGWHKmvt9jIjRK1mfXNTISEjP4TzjPi-Mii11rCOb4q1rxCUoUutU_TLE2QygJn5Q-upA9M-d6t59_Q5NI68KHhc5KtYX6m0Zer3tyabL81aAhFWmngPWnvP15ieVW_Q/s800/fruit_orange2.png",
+  "type": "type2"
+}
+16 {	
+  "text":"phonics reading challenge 16",
+  "image": "",
+  "type": "type1"
+},
+p {	
+  "text":"p",
+  "image": "",
+  "type": "type1"
+}
+p {	
+  "text":"Peter Pan",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR3yyDx7s6F7D_J2KWLLSYvVE-SgmLjigXF9DRV4uXoRyY3qLGsd7GWojPTd7SDh5BJVUpa3o7mp_NpO3U16WqPpfEXmu_orJWYMW-1AQIp5NP82d4LE9jnSjNXfLsiJhA5F6pL4NTx1QA/s800/monogatari_peterpan.png",
+  "type": "type2"
+}
+p {	
+  "text":"plays",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLJ9_9Xgul2bTvJbejofniD_zQzJ3WOhOH2rzpB9xe67AHfswU0RZpH7XyJU-5yd09YE03x44-ZWAvJtozyQU8dbcgNk6E1j13k_G5CsdkeIdRAWuF5z3fS_ijfttzKeguqIXwuJ_LE1DY/s800/slump_good_man_music.png",
+  "type": "type2"
+}
+p {	
+  "text":"piano",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC2wVYmyFyf4T7N397O8-WUS-wY8pKegByew1hC9k5NxaXMDrQuTvkRFaeUZ091ckRvMDx7odFICtjo-bR25JDyn1lpXVLrb5dMozWLN4QNgQb8iksAersK_XXfwOmEZ9YWumSGMaaHskB/s800/music_piano.png",
+  "type": "type2"
+}
+17 {	
+  "text":"phonics reading challenge 17",
+  "image": "",
+  "type": "type1"
+},
+q {	
+  "text":"q",
+  "image": "",
+  "type": "type1"
+}
+q {	
+  "text":"queen",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7DCjkk7Z88JbQlxVjIsugHV1OVHLVnW8zpJT6Ni-WqTtRad4lJkLKqYDCdUNE7p6LxdVpRlasYp6HvCAvMjoEZm9P1jiXCxjYJv2LK6XTCr-flZaoKV__MmIoBFTcFzu9_lShddm0tX4/s800/royal_queen_gyokuza.png",
+  "type": "type2"
+}
+q {	
+  "text":"quickyl",
+  "image": "https://previews.123rf.com/images/blueringmedia/blueringmedia1511/blueringmedia151100707/48543510-%E9%9D%9E%E5%B8%B8%E3%81%AB%E9%AB%98%E9%80%9F%E3%81%AE%E5%9B%B3%E3%82%92%E8%B5%B0%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E5%B0%91%E5%B9%B4.jpg",
+  "type": "type2"
+}
+q {	
+  "text":"quail eggs",
+  "image": "https://thumb.ac-illust.com/bc/bc51ba732459962a0fc8ba49e5f773e4_t.jpeg",
+  "type": "type2"
+}
+18 {	
+  "text":"phonics reading challenge 18",
+  "image": "",
+  "type": "type1"
+},
+r {	
+  "text":"r",
+  "image": "",
+  "type": "type1"
+}
+r {	
+  "text":"Ryan",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHnFvL8IKrGK-Xbg1V-OEtU6AVPWf-zsSaebAPyKmUYHxNkB1vmHqAzE5lU_QGw0m4TtQqWsPhAjKo5HKSOYo2si9Z8yuskRgjC8LmUOiUw2M8luem2Zt1uzPPgJBE2BfxR1H7SbZ6R3ZZ/s800/taiiku_nagasode_boy.png",
+  "type": "type2"
+}
+r {	
+  "text":"rainbow",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKAa53Ll4r7GF-FkEPIblt2jFVL1jWNxMasDmtp7_tSm0B3YWDHsjnAyLBIZXUvZ9ncxxVcMnArIpQbQ_vx6BpBrbxdOTgU4ubNkZdrI9rTyYl6wxYOa4ALvzQAlP07QJs6gDeBoC2pZs/s800/niji.png",
+  "type": "type2"
+}
+r {	
+  "text":"rain",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid3FGDbGAcMUj3Ws4Wvs7PrJGX06f3Q9gVmzkLsSRtVRQrDgZhS3JYJoT8oJ98KY1_YFiE0yOZS7DujbXj8uvhwpP-jefHnqldgeIQeJrhyoJM-EwWMAkECM86SiOu2aYm-Y0Xx56vDVBv/s800/bg_rain_natural_sougen.jpg",
+  "type": "type2"
+}
+19 {	
+  "text":"phonics reading challenge 19",
+  "image": "",
+  "type": "type1"
+},
+s {	
+  "text":"s",
+  "image": "",
+  "type": "type1"
+}
+s {	
+  "text":"she",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1P60VAvO8IBqUIy6K2LrMRIbWYSCCQu9YppqKJEIBCiML-MkDqHOCCcLcQQviu8sxia3SxYBv5TG3UNWTDAorHwXoyAuCmxUN-TXDzHvU3UzmjFShLC3n9tWVrosteFPC31LWhNt_XHFB/s800/stand_seiyou06_girl.png",
+  "type": "type2"
+}
+s {	
+  "text":"sells",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNprdwKaee_M02slVl_ah-KK7kvMKNXxTY1I2UT40p6gaA08OV-CoXt9Y3Tl7ILamxVdZljmQAbxe46_37YCbRdOXoyzw237qxsXMAM5ecQJD08-qzgQIWCdzXrzX1KJpcWy1LpDr9uKJm/s800/lemonade_shop_girl.png",
+  "type": "type2"
+}
+s {	
+  "text":"salami",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDuIU_LBTIUYDZ1i2v7DmtOrH2gOaTYbh-Gd1PormzdXC07o5HXVBETqIBLuDJfwNlUUSZSygSv4smSrDh9IjMQZ6vVeVPRw57FkZ-HQPn6zYNVkvWHQWkwYAlTWNvmbD49v3n_OQ9pns/s800/food_niku_salami.png",
+  "type": "type2"
+}
+20 {	
+  "text":"phonics reading challenge 20",
+  "image": "",
+  "type": "type1"
+},
+t {	
+  "text":"t",
+  "image": "",
+  "type": "type1"
+}
+t {	
+  "text":"touched",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3mLM1VB9pf7nYbtQNVQdE1lKdSxcFDRg8oCDZA1FRfF4-c4OMdpLws_tuPF9jGERWMeJPl8dXWNCBx-cqfd8UQxSgcfSVC76Vc1ePUXVooVAn4VRfpIELY6h_LGZM90gKO-iiv8v8ZREC/w1200-h630-p-k-no-nu/tablet_touch_panel.png",
+  "type": "type2"
+}
+t {	
+  "text":"tiger",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj92pMMHVB_LGWIcnJIuycUhXDR3kPX-JHrvmoz9HS73sw9yxT07gMsHVxMD7obAbZNQCBRt13l7dig0KRS7eoy7lx_wXJ-WsZpEJdFsv32yGFKFFV36pwvgI8EA48IESYMNm_SmW9OZ60/s800/animal_tora.png",
+  "type": "type2"
+}
+t {	
+  "text":"tail",
+  "image": "https://png.pngtree.com/png-clipart/20230825/original/pngtree-tiger-tail-design-vector-illustration-picture-image_8481113.png",
+  "type": "type2"
+}
+21 {	
+  "text":"phonics reading challenge 21",
+  "image": "",
+  "type": "type1"
+},
+u {	
+  "text":"u",
+  "image": "",
+  "type": "type1"
+}
+u {	
+  "text":"duck",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEqNkbGIsTG4VPiKE8V7W3Nnz8ZQckZmQomYo8x-_VkMNOZEn16enP4GMdYv1aLP2TsWArxnql-40knrx8A2OQgiQuFZEjzz5gMftddGT-h8R5mZGZyyy5JnfApCCCkijM5hSXk_CakNk/s800/bird_magamo.png",
+  "type": "type2"
+}
+u {	
+  "text":"fun",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGjGfoVB2qsICtbwjRRF9Mc-gJcAuATHkplTa8reZE0igT30QDhjCPTWqNzKtd2Sjx03mJ0QrvD0UzWmuIkG4QSLTAD1sLeBm4YhIk5IRmvUAb94qfea7l-GPzb4eHLUWOq9vs_CLQLLI/w1200-h630-p-k-no-nu/group_kids_no_dog.png",
+  "type": "type2"
+}
+u {	
+  "text":"bus",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFCMOABw3RNjT0oHfYeS6Io2azmqt6OXudegzsVpksOW52TGvGn3q1JEpqshhEK1lL3ESrXeeG81tUXj9qfRntGNbpKg63Gr9ICt7gHuVKaw1b982F_lF1x8VjcGTy1mCM0zsIp8pek34/s800/car_bus_tokyu.png",
+  "type": "type2"
+}
+22 {	
+  "text":"phonics reading challenge 22",
+  "image": "",
+  "type": "type1"
+},
+v {	
+  "text":"v",
+  "image": "",
+  "type": "type1"
+}
+v {	
+  "text":"violet",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZpRViq9yUbziCE9QxG9Iki8A8XPbJnUilEA&s",
+  "type": "type2"
+}
+v {	
+  "text":"violin",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzd050xx_xZsbZRe1zTtLL3D1xJhJN2idH4EnhAu8Ne3lwmJ7i7e1lwydLzAYYLXxqCJ_j-J2sJEc6jfM-_pTVGHi6DgdnACNkivFasOC92fh_IdL8R1T7k9Hlh9ELVFvXimDWO-d9bBe5/s1600/music_violin.png",
+  "type": "type2"
+}
+v {	
+  "text":"van",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfVuxrdr8lJtgGfSkgWrQ1D9t94AAERNEEJMgctzhSr1ka32L6PFj21zZnysmPYs29YLzoI3ipzJoU4xmBYN5Nif5PoqAWFvI4WmQwe9cVTvtsc0mqtsk85Q3SSV7IJlz166nNJb33jhsZ/w1200-h630-p-k-no-nu/car_slide_door.png",
+  "type": "type2"
+}
+23 {	
+  "text":"phonics reading challenge 23",
+  "image": "",
+  "type": "type1"
+},
+w {	
+  "text":"w",
+  "image": "",
+  "type": "type1"
+}
+w {	
+  "text":"Winnie",
+  "image": "https://cdn.inspireuplift.com/uploads/images/seller_products/30048/iu_1711442243_1.png",
+  "type": "type2"
+}
+w {	
+  "text":"wants",
+  "image": "https://thumb.ac-illust.com/51/5149bd3dac1b76ecfd180fa4a7dd3a00_t.jpeg",
+  "type": "type2"
+}
+w {	
+  "text":"watermelon",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcz6CLn1iHUeTSrZWlJym-AvdVkM-p9p-JakM8O2zlLG5SK2huWJkJRVqAwKmH9Y6TRVT0U6mTWOazwxAP3eYwKZhmxlelkrLyFwYudXINXsh2jcI-OFbl-zh9TUKnuo8J3wvALY1pQhVS/s180-c/fruit_suika_red.png",
+  "type": "type2"
+}
+24 {	
+  "text":"phonics reading challenge 24",
+  "image": "",
+  "type": "type1"
+},
+x {	
+  "text":"x",
+  "image": "",
+  "type": "type1"
+}
+x {	
+  "text":"fox",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXT7fcrfGnQ0VyXbjrWb6vRFepSarCJ8pnhjmuHbre8G0-K4dzTxcYKGGXGJZddCDy_ObMIxCr7SMi9SPEdH9dvYZvSs8s42WcL8nTqhGAnyRKPj280S0EBqjHHlvN-XqNLnAd_PhvKBI/s800/animal_fox_kitsune.png",
+  "type": "type2"
+}
+x {	
+  "text":"box",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHbhaArwt9Pakj7n2V_278XZf2zP8wkXoGw55klkQitUXpWRCfX5FGkkj6_wrH6I1-9HqpyBFPRngK-KbJekYln5HGGtI8ZqLxFWVAno3kUyOGaMuvZtumKeGychP63CzmrY-1Gj2OhH0E/s800/yuubin_takuhaiin_box.png",
+  "type": "type2"
+}
+x {	
+  "text":"wax",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89w3KvY7AZtd4UV4n2dPHidmk6v-e-bIC2T4JOyxj6pZfy7yHXfa2U7ThJm8ULwfPyEgVtZqAeDXMO9O8c-ziGEX2OpeAy6P09EE3K6gHU6atoctK2CzisYa5GQpSu1LrOfzcGi1EDk_o/s800/hair_wax.png",
+  "type": "type2"
+}
+25 {	
+  "text":"phonics reading challenge 25",
+  "image": "",
+  "type": "type1"
+},
+y {	
+  "text":"y",
+  "image": "",
+  "type": "type1"
+}
+y {	
+  "text":"Yuri",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIZi7mW2vL0P_tw4MUWo3Xbl7YKYMgXK_gKIlTwtAFSTwFXhi7os25swCWjx5WE3_loE-TJBiiHW9HFxlJqXymz5X59B33CYTSu5o-oMWcPjn5OfK-67n6S1CWMg5NhjjsY1YlFxxYGBw/w1200-h630-p-k-no-nu/kid_job_girl_youtuber.png",
+  "type": "type2"
+}
+y {	
+  "text":"yummy",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS_B3UoVXEn6P1wlEMjAYFnPD7-9UeeuFNI4efQuWpjTU2nEv3fP37OgFzjBuLEF8DQVAj1F-8imjy0n7wmQora9r9atPm2QdeLVGiE49UYHzzsJVz8XgQZND9EXYNWM832YWfTtaA8qQ/s180-c/oishii6_woman.png",
+  "type": "type2"
+}
+y {	
+  "text":"yogurt",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNvriUxU1FtJkaZB_nqq8_vnjBQLokOx5dKR7fYHGYPP6eL45QvQJ0_GOUDTqENWACa3b9VYSiQ_zSRgbj9WnekbfRHMSGr0bOGobjMPfUFBi39zU9FxSGYVrvi9yJZ45Ym9-NHR9cjGk/s180-c/food_yogurt.png",
+  "type": "type2"
+}
+26 {	
+  "text":"phonics reading challenge 26",
+  "image": "",
+  "type": "type1"
+},
+z {	
+  "text":"z",
+  "image": "",
+  "type": "type1"
+}
+z {	
+  "text":"Zaira",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFtFnzUK_6u83hcsCzm5eFyQNUWdp2zoWevKkS0Sq8wYrxPY4JC9t4tJPKZpxR8pJuR2FJKlao-V8Y6rK3Qa2RB9w3yWUEPk5GmR4FuOW3EMzM4JH4D8OM9YEbFw2TpvFKzuIoS8L7Fjg/w1200-h630-p-k-no-nu/shinnen_aisatsu_girl.png",
+  "type": "type2"
+}
+z {	
+  "text":"zebra",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKe0s-sar_r33zxJlWvEw63TuxlfSN8Ohyphenhyphenu4rYY2wQxdLlnOjrMM4RgKVhVE0iNySZHGbjkabuIa_bZTXmdEgbDsiWeinbkFtBFdgF2dpmsW6T5jbikwVeNrYXKTdr-1m9WOtEBYXOpuY/s800/animal_shimauma.png",
+  "type": "type2"
+}
+z {	
+  "text":"zoo",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhpV95Ej2mdxHXuTC-0-_rSYE4KSxfZrQf_VvOHcDa8yMEfPZoeTt26vFL9xd6Jp2MRFYBoozZ5I1wLQtbivunmPP7slNfmWGIAk1kfLIT0upxymSB64ZA5EhyPe36OR9dYPgUkDKryjzl/s800/zoo_doubutsuen.png",
+  "type": "type2"
+}
+27 {	
+  "text":"phonics reading challenge 27",
+  "image": "",
+  "type": "type1"
+},
+ch {	
+  "text":"ch",
+  "image": "",
+  "type": "type1"
+}
+ch {	
+  "text":"Chiaki",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMyWudP0645hg_0XzcD9dd0n098EcTbQjLy6Tqr774BGL2QIDHI969vW5o_gOQ2MWBPQwomvsqMr7jjqdYSpG3Kz4esjmaKOWsbP-XGmRHzRb6VuayG5SEH6v2vqukUb7YG0wWXV8pDUs/s800/kid_job_girl_figureskater.png",
+  "type": "type2"
+}
+ch {	
+  "text":"chocolate",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbl_RLG51GdDBdt-Nkqjs7ssEuGtSM51gsOp49nwSEQzLU24j5zH4MbdiaNZ_jTuN6UEBQRr4s9JYIejUmCr9y1bY3TTa5IRSLGPrE7cD1dFXPU12HiQ3geMIDM3gYy8_nXxUMOuMdunIQ/s800/sweets_chocolate_milk.png",
+  "type": "type2"
+}
+ch {	
+  "text":"chip",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wWUjRu5YO5X3Jn2WCpynSr6hc6ztzBgqzA&s",
+  "type": "type2"
+}
+28 {	
+  "text":"phonics reading challenge 28",
+  "image": "",
+  "type": "type1"
+},
+th {	
+  "text":"th",
+  "image": "",
+  "type": "type1"
+}
+th {	
+  "text":"three",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjfSrBPPyYs95mO7RDxPfqrRBnwsXpmSr0GTDidRo_THfBLqm2CjGUVNbz_JPkF4SZcck1OeZVHaCkhokxzZtj85SRphSPbVqEyxdBKAVSf0IEpCZF528h8-B8Nn6RAY_UgzAyz5LPviw/s1600/number_3.png",
+  "type": "type2"
+}
+th {	
+  "text":"thick",
+  "image": "https://preview.redd.it/hry96zxbvgn31.jpg?auto=webp&s=e555ac5c53d72b2f6cecf5ace41c546a2f9f60d1",
+  "type": "type2"
+}
+th {	
+  "text":"thumbs",
+  "image": "https://i.pinimg.com/736x/ce/67/49/ce67499b768cf503beeaef66ac7b0c65.jpg",
+  "type": "type2"
+}
+29 {	
+  "text":"phonics reading challenge 29",
+  "image": "",
+  "type": "type1"
+},
+th {	
+  "text":"th",
+  "image": "",
+  "type": "type1"
+}
+th {	
+  "text":"mother",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbfSgjuj401LzTA6f1OTbnoCFaWL1W1mm5MDoFDdo3xNkaaJrIpw1ZpUcYuoGXL84x8JCNY9el1cCYJ2Gm294bpM7vsZRWnoYlXAeUw09FnBtNooJtdO341IpxF2BvLKw-PqOyn2BxmlQ/w1200-h630-p-k-no-nu/single_mother.png",
+  "type": "type2"
+}
+th {	
+  "text":"them",
+  "image": "https://englishunite.com/wp-content/uploads/2023/03/th-digraph-they-eu.jpg",
+  "type": "type2"
+}
+th {	
+  "text":"the",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR9XlRWIvjqDOqi-5CM29RRkJQmebCbqP6EQ&s",
+  "type": "type2"
+}
+30 {	
+  "text":"phonics reading challenge 30",
+  "image": "",
+  "type": "type1"
+},
+sh {	
+  "text":"sh",
+  "image": "",
+  "type": "type1"
+}
+sh {	
+  "text":"she",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrf9En3MJtd5ZzEa1Ky0jrp9rxFSTlwU30lzOToxwyVnSd7mprvlkTfhHuDDXFJfcAfF6o7oLbdQ_HL1OkA7n7M_rAVJTHOwg6pc-LO_QwoVEnqT1W3Lhk-KpbE62dvm_yvmu4qgDnass/s800/character_girl_normal.png",
+  "type": "type2"
+}
+sh {	
+  "text":"shark",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeH05kc9iTIdYB8n7cdchDjz-CgY1NbuBso40nD1yppB57oSrw50tKCTWhFX6xTItuC2_dw8a2EDs3fMfjvptiAOzuFE-reCd7c9RUiNEyw-Qm245-v0MP_W4vVqo5pUACxGfeA5IYA4Ti/s800/fish_shark.png",
+  "type": "type2"
+}
+sh {	
+  "text":"ship",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-ZUA7j4RRzF2BCN_JWWV-JziSlDbdRgfNikPDr58k103OEcUrIXM1ioSP0Mj9Sh5_ioSUbjILAQlIY2613ngcUhdMasp1LpRhmpMGbcX8ZAMehIKjuDXfo2qEpt4iTzcjaocFJ7B_2jxL/w1200-h630-p-k-no-nu/tanker_genyu_front.png",
+  "type": "type2"
+}
+31 {	
+  "text":"phonics reading challenge 31",
+  "image": "",
+  "type": "type1"
+},
+tch {	
+  "text":"tch",
+  "image": "",
+  "type": "type1"
+}
+tch {	
+  "text":"watched",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilvBo3sMoeh_-5CH5gbGAKQEniOXMBUm5hBQAYzWvCI3ULpl-ZwqINVMEmTqM6Hq6hn62XczmYWnbfu2Fqr2n-oFUOE89VXF4YwFO1jaGROJQ6SGOBcViQWdunhnM5nlRvmaIoawNlFfBI/s800/sougankyou_nozoku_boy.png",
+  "type": "type2"
+}
+tch {	
+  "text":"witch",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidMbbTnEVbYXhYfGh_DDd3RN9NkhD_uyflNZGMbzA46FFR55iasyXVoaWGdlkG6VAZzx93Q0uLkNv8x51o0BYtx2Jc4OXj2WIG1oNpsnj20YAqtzAXhNp0_MIQzieEshXXgn7MQmYiJxg/w1200-h630-p-k-no-nu/halloween_lantern_girl.png",
+  "type": "type2"
+}
+tch {	
+  "text":"catch",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMjNdIpcaUF9Cs8r2vEtYmBOnb9wJxVKvXGUvVLUhrQjpP9Myw4SUtBkdrgUrI1eFcfgFlo3EC5agj2cIwsnm-Q0ov_IyH_hSzOERSr255tPDRTZTtOz2g-T89gEiniA1miaRy2Sx2Iso/s180-c/soccer_catch.png",
+  "type": "type2"
+}
+32 {	
+  "text":"phonics reading challenge 32",
+  "image": "",
+  "type": "type1"
+},
+ck {	
+  "text":"ck",
+  "image": "",
+  "type": "type1"
+}
+ck {	
+  "text":"packed",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh99lhEby0XSCmTxb71ISI1g6F9uSqAxgFUtOZAkp6J78IvOczinvos4DER3Dc0JZ2ZmOxg_fb3-VcDm1NMrsQRxgMC2b0uCYsR-qeOJiz0aNkROLWqsN8QtC2syVTxqBZ-yUZMOu6t5Q8/s800/nimotsu_tsumeru.png",
+  "type": "type2"
+}
+ck {	
+  "text":"snack",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzwJTtJJON6VY7FDYDAdpNRgmgAdH4e5_KYKZeLOJhSDHAJT2kqdIlJNoB8H9HxyZRUb6iaHOIMW08yjJTa0fHyDxZFD_Ctm45judT-BSY7VdSlT2BgAukJCRX_q3VzJTeIQUlv4vjYt0/s800/snackgashi.png",
+  "type": "type2"
+}
+33 {	
+  "text":"phonics reading challenge 33",
+  "image": "",
+  "type": "type1"
+},
+ck {	
+  "text":"duck",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEqNkbGIsTG4VPiKE8V7W3Nnz8ZQckZmQomYo8x-_VkMNOZEn16enP4GMdYv1aLP2TsWArxnql-40knrx8A2OQgiQuFZEjzz5gMftddGT-h8R5mZGZyyy5JnfApCCCkijM5hSXk_CakNk/s800/bird_magamo.png",
+  "type": "type2"
+}
+34 {	
+  "text":"phonics reading challenge 34",
+  "image": "",
+  "type": "type1"
+},
+ng {	
+  "text":"ng",
+  "image": "",
+  "type": "type1"
+}
+ng {	
+  "text":"king",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdZ3EEoZNJ2ScsrKkugLP2ynCeOI8AeLKpFDjyuViEqZmkFoHrSs1B02wmvFq5BrAi_YeD-1oJlJa0753eZIdDx-cP63InrzIKYLbn10X7o4xeq7XqxG8nOYKLZk9etZGrnllwplDEgHg/s800/royal_king.png",
+  "type": "type2"
+}
+ng {	
+  "text":"wings",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjloQ3BMnXBhc04Kxty1M09GQjcb3SOstPqGX3g4wc7W1jvz9q1rcS7NWt3vPw6ptopXCsZrmhev5zocaRcFcCPqPxvLH9JYhhHJQJez0YC_cjmTqNTNmhUCCa4K-eA_UbOwg90q5rHmQP3/s195/thumbnail_tenshi_wing.jpg",
+  "type": "type2"
+}
+ng {	
+  "text":"sing",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTY0e8DSla2vG2gq2uWdUBq-KNmCi_jqjOSAnkJtRQQtAR4Rc8-SKhxs5IYkb47H02kNTI5qndpcbUPte5_2lpHLpZgqpKam1l60CFTW-plhYEBG3GVU62JONV2QsxBXuER4Fa7MKR7tyZ/s180-c/opera_singer_man.png",
+  "type": "type2"
+}
+35 {	
+  "text":"phonics reading challenge 35",
+  "image": "",
+  "type": "type1"
+},
+wh {	
+  "text":"wh",
+  "image": "",
+  "type": "type1"
+}
+wh {	
+  "text":"where",
+  "image": "https://i.pinimg.com/736x/a9/25/27/a92527e37f9f844015a5c81423bf7cae.jpg",
+  "type": "type2"
+}
+wh {	
+  "text":"white",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPX0CjqORX5GfmKtwu0r4a0EzHyPn0KbyjFg&s",
+  "type": "type2"
+}
+wh {	
+  "text":"whale",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHPcP6xrmJK-5gGNeSgRn-NUzgRQ2m1kDZercce1CjGuiF1700SCMa4oixBjNjpHRADFpn0t4yXkR7sP5eQBWyebl69Pg_XynrxqojY7keQUIPoA9SwuEsfN4ZnYC9hMs8W1gizd0D4QA/w1200-h630-p-k-no-nu/whale_09_minkukujira.png",
+  "type": "type2"
+}
+36 {	
+  "text":"phonics reading challenge 36",
+  "image": "",
+  "type": "type1"
+},
+ink {	
+  "text":"ink",
+  "image": "",
+  "type": "type1"
+}
+ink {	
+  "text":"pink",
+  "image": "",
+  "type": "type2"
+}
+ink {	
+  "text":"drink",
+  "image": "",
+  "type": "type2"
+}
+ink {	
+  "text":"stinks",
+  "image": "",
+  "type": "type2"
+}
+37 {	
+  "text":"phonics reading challenge 37",
+  "image": "",
+  "type": "type1"
+},
+oo {	
+  "text":"oo",
+  "image": "",
+  "type": "type1"
+}
+oo {	
+  "text":"baboon",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN7xbnDF00ezOsdMHqmD3AiMN4Booc8lqAEgCDCQhvkfzgy9ammy7gm2dWf17nO5IF9Y-dqaN-Z3zzZlgiZIxuPgITlKR0rrtGAN6qs0oTlQLq8D98Tflebw4p7qE5mIfkK1ai_SDB8U6C/w1200-h630-p-k-no-nu/animal_mandrill.png",
+  "type": "type2"
+}
+oo {	
+  "text":"balloon",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjTPiMo2wMJHtwJbroikGW0tnhs6TLvUwcYg70Su1tKaGemCLwiUF67btg3bYQKR9aIoGAvor9zFaeLBu3lemX7eHgTFbLVjPae9iDA7__zW5JI83AFEsgqnlGIGImAv7N5p8UunpjveO9/s800/balloon01_red.png",
+  "type": "type2"
+}
+oo {	
+  "text":"book",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjacWeOQ3GmWHnF_z9EZFvaQbIrtcRgJ6huFNRZZ3hYcMNI6uOcuNQgJTsdG_yFqsfvMMtfrc2hxPUFydTftxv0ST4T_byQ5yhgbcZqXNtOLSEXrzxFjqXxdWz066qkBMr_IEBqt-Gy6sJ-/s800/book_tate.png",
+  "type": "type2"
+}
