@@ -49,6 +49,11 @@ pair {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
 },
+sentence {	
+  "text":"The cat sat on the mat.",
+  "image": "",
+  "type": "type1"
+},
 2 {	
   "text":"phonics reading challenge 2",
   "image": "",
@@ -103,6 +108,11 @@ pair {
   "text":"Pair Duel",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
+},
+sentence {	
+  "text":"The pet can get the net.",
+  "image": "",
+  "type": "type1"
 },
 3 {	
   "text":"phonics reading challenge 3",
@@ -159,6 +169,11 @@ pair {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
 },
+sentence {	
+  "text":"The penguin's chin is in the bin.",
+  "image": "",
+  "type": "type1"
+},
 4 {	
   "text":"phonics reading challenge 4",
   "image": "",
@@ -205,7 +220,7 @@ lets {
   "type": "type1"
 },
 sentence {	
-    "text":"The ox baked an octopus in the oven",
+    "text":"The ox baked an octopus in the oven.",
   "image": "",
   "type": "type1"
 },
@@ -213,6 +228,11 @@ pair {
   "text":"Pair Duel",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
+},
+sentence {	
+  "text":"The ox baked an octopus in the oven.",
+  "image": "",
+  "type": "type1"
 },
 5 {	
   "text":"phonics reading challenge 5",
@@ -269,6 +289,11 @@ pair {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
 },
+sentence {	
+  "text":"The moon's tooth hurt because of the food.",
+  "image": "",
+  "type": "type1"
+},
 6 {	
   "text":"phonics reading challenge 6",
   "image": "",
@@ -323,6 +348,11 @@ pair {
   "text":"Pair Duel",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
+},
+  sentence {	
+  "text":"The duck had fun in the bus.",
+  "image": "",
+  "type": "type1"
 },
 7{	
   "text":"phonics reading challenge 7",
@@ -379,6 +409,11 @@ pair {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
 },
+sentence {	
+  "text":"The snail got paint in the mail.",
+  "image": "",
+  "type": "type1"
+},
 8 {	
   "text":"phonics reading challenge 8",
   "image": "",
@@ -421,6 +456,11 @@ lets {
 },
 lets {  
   "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+sentence {	
+  "text":"Please pay for the clay on the tray.",
   "image": "",
   "type": "type1"
 },
@@ -489,6 +529,11 @@ pair {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
 },
+sentence {	
+  "text":"The snake's face fell on the cake.",
+  "image": "",
+  "type": "type1"
+},
 10 {	
   "text":"phonics reading challenge 10",
   "image": "",
@@ -543,6 +588,11 @@ pair {
   "text":"Pair Duel",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
+},
+sentence {	
+  "text":"The sheep ate the sweet green candy.",
+  "image": "",
+  "type": "type1"
 },
 11 {	
   "text":"phonics reading challenge 11",
@@ -599,6 +649,11 @@ pair {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
 },
+sentence {	
+  "text":"The teacher wants to eat peas.",
+  "image": "",
+  "type": "type1"
+},
 12 {	
   "text":"phonics reading challenge 12",
   "image": "",
@@ -645,7 +700,12 @@ lets {
   "type": "type1"
 },
 sentence {	
-  "text":"He has bread on his sweaty head",
+  "text":"He has bread on his sweaty head.",
+  "image": "",
+  "type": "type1"
+},
+sentence {	
+  "text":"He has bread on his sweaty head.",
   "image": "",
   "type": "type1"
 },
@@ -709,6 +769,11 @@ pair {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
 },
+sentence {	
+  "text":"The young boy touched the rough rock.",
+  "image": "",
+  "type": "type1"
+},
 14 {	
   "text":"phonics reading challenge 14",
   "image": "",
@@ -763,6 +828,11 @@ pair {
   "text":"Pair Duel",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
+},
+sentence {	
+  "text":"Her shout scared the mouse on the couch.",
+  "image": "",
+  "type": "type1"
 },
 15 {	
   "text":"phonics reading challenge 15",
@@ -839,6 +909,11 @@ pair {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
 },
+sentence {	
+  "text":"She can throw a snowball in a bowl.",
+  "image": "",
+  "type": "type1"
+},
 16 {	
   "text":"phonics reading challenge 16",
   "image": "",
@@ -885,7 +960,7 @@ lets {
   "type": "type1"
 }
 sentence {	
-  "text":"The boy bought an oyster and a toy",
+  "text":"The boy bought an oyster and a toy.",
   "image": "",
   "type": "type1"
 },
@@ -893,6 +968,11 @@ pair {
   "text":"Pair Duel",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
+},
+sentence {	
+  "text":"The boy bought an oyster and a toy.",
+  "image": "",
+  "type": "type1"
 },
 17 {	
   "text":"phonics reading challenge 17",
@@ -949,6 +1029,11 @@ pair {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
 },
+sentence {	
+  "text":"A chicken's child is a chick.",
+  "image": "",
+  "type": "type1"
+},
 18 {	
   "text":"phonics reading challenge 18",
   "image": "",
@@ -1003,6 +1088,11 @@ pair {
   "text":"Pair Duel",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
+},
+sentence {	
+  "text":"She shouted at the sheep on the ship.",
+  "image": "",
+  "type": "type1"
 },
 19 {	
   "text":"phonics reading challenge 19",
@@ -1059,6 +1149,11 @@ pair {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
 },
+sentence {	
+  "text":"She sells salami.",
+  "image": "",
+  "type": "type1"
+},
 20 {	
   "text":"phonics reading challenge 20",
   "image": "",
@@ -1113,6 +1208,11 @@ pair {
   "text":"Pair Duel",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
+},
+sentence {	
+  "text":"She touched the tiger's tail.",
+  "image": "",
+  "type": "type1"
 },
 21 {	
   "text":"phonics reading challenge 21",
@@ -1169,6 +1269,11 @@ pair {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
 },
+sentence {	
+  "text":"The duck had fun in the bus.",
+  "image": "",
+  "type": "type1"
+},
 22 {	
   "text":"phonics reading challenge 22",
   "image": "",
@@ -1223,6 +1328,11 @@ pair {
   "text":"Pair Duel",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
+},
+sentence {	
+  "text":"The violet violin is in the van.",
+  "image": "",
+  "type": "type1"
 },
 23 {	
   "text":"phonics reading challenge 23",
@@ -1279,6 +1389,11 @@ pair {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
 },
+sentence {	
+  "text":"Winnie wants some watermelons.",
+  "image": "",
+  "type": "type1"
+},
 24 {	
   "text":"phonics reading challenge 24",
   "image": "",
@@ -1333,6 +1448,11 @@ pair {
   "text":"Pair Duel",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
+},
+sentence {	
+  "text":"The fox gave me a box of wax.",
+  "image": "",
+  "type": "type1"
 },
 25 {	
   "text":"phonics reading challenge 25",
@@ -1389,6 +1509,11 @@ pair {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
 },
+sentence {	
+  "text":"Yuri ate the yummy yogurt.",
+  "image": "",
+  "type": "type1"
+},
 26 {	
   "text":"phonics reading challenge 26",
   "image": "",
@@ -1443,6 +1568,11 @@ pair {
   "text":"Pair Duel",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
+},
+sentence {	
+  "text":"Zaira saw a zebra at the the zoo.",
+  "image": "",
+  "type": "type1"
 },
 27 {	
   "text":"phonics reading challenge 27",
@@ -1499,6 +1629,11 @@ pair {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
 },
+sentence {	
+  "text":"Chiaki wants chocolate chip cookies.",
+  "image": "",
+  "type": "type1"
+},
 28 {	
   "text":"phonics reading challenge 28",
   "image": "",
@@ -1553,6 +1688,11 @@ pair {
   "text":"Pair Duel",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
+},
+sentence {	
+  "text":"Three thick thumbs are up.",
+  "image": "",
+  "type": "type1"
 },
 29 {	
   "text":"phonics reading challenge 29",
@@ -1609,6 +1749,11 @@ pair {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
 },
+sentence {	
+  "text":"My mother gave them the box.",
+  "image": "",
+  "type": "type1"
+},
 30 {	
   "text":"phonics reading challenge 30",
   "image": "",
@@ -1663,6 +1808,11 @@ pair {
   "text":"Pair Duel",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
+},
+sentence {	
+  "text":"She saw the shark in the ship.",
+  "image": "",
+  "type": "type1"
 },
 31 {	
   "text":"phonics reading challenge 31",
@@ -1719,6 +1869,11 @@ pair {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
 },
+sentence {	
+  "text":"I watched a witch catch a fish.",
+  "image": "",
+  "type": "type1"
+},
 32 {	
   "text":"phonics reading challenge 32",
   "image": "",
@@ -1773,6 +1928,11 @@ pair {
   "text":"Pair Duel",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
+},
+sentence {	
+  "text":"I packed a snack for the duck.",
+  "image": "",
+  "type": "type1"
 },
 33 {	
   "text":"phonics reading challenge 33",
@@ -1829,6 +1989,11 @@ pair {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
 },
+sentence {	
+  "text":"The king with wings likes to sing.",
+  "image": "",
+  "type": "type1"
+},
 35 {	
   "text":"phonics reading challenge 34",
   "image": "",
@@ -1883,6 +2048,11 @@ pair {
   "text":"Pair Duel",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
+},
+sentence {	
+  "text":"Where is the white whale?",
+  "image": "",
+  "type": "type1"
 },
 35 {	
   "text":"phonics reading challenge 35",
@@ -1939,6 +2109,11 @@ pair {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
 },
+sentence {	
+  "text":"The pink drink stinks.",
+  "image": "",
+  "type": "type1"
+},
 36 {	
   "text":"phonics reading challenge 36",
   "image": "",
@@ -1993,5 +2168,10 @@ pair {
   "text":"Pair Duel",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
+},
+sentence {	
+  "text":"I gave a baboon a ballon and a book.",
+  "image": "",
+  "type": "type1"
 },
 ]
