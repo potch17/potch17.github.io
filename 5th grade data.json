@@ -4,7 +4,7 @@
   "image": "",
   "type": "type1"
 },
-a {	
+a_e {	
   "text":"a_e",
   "image": "",
   "type": "type1"
@@ -14,20 +14,45 @@ a_e {
   "image": "https://static.vecteezy.com/system/resources/thumbnails/002/062/613/small_2x/chef-girl-wearing-chef-hat-holding-baking-tray-free-vector.jpg",
   "type": "type2"
 },
-a {	
+a_e {	
   "text":"cake",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNV1kUJpsh25GN2cHNEOUz8PG2373QVEtyNLNe31A9lN6_K4BlNoUptnrjlOmtn0zlN4ZmGvSxI4-gHJHEXPZfO17-oJlHn17f6AMzEebKKWbLgxpzg5PgEWQNevYm6uDs0mNx3EYAplw/s180-c/sweets_cake_rousoku.png",
   "type": "type2"
 },
-a {	
+a_e {	
   "text":"Abe",
   "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT_hI8EWaCRospEuwzVzlI20ekB94VBN5E1JK8Kg4VEeoD2HFWsJ8m7e72LPShYQGnPpQugbKZIxgNapbxFN28_kU2WXbgVBLWYPioD7bZ2-snzC8vF581ns-DC_8x26_4-DGCdGIvh8ur/s800/necchusyou_face_boy1.png",
   "type": "type2"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
 },
 sentence {	
   "text":"I baked a cake for Abe.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 2 {	
   "text":"phonics reading challenge 2",
@@ -54,10 +79,35 @@ a {
   "image": "",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"The black car from the farm.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 3 {	
   "text":"phonics reading challenge 3",
@@ -79,15 +129,40 @@ a2 {
   "image": "https://png.pngtree.com/png-vector/20220518/ourmid/pngtree-boy-measures-his-height-with-png-image_4673837.png",
   "type": "type2"
 }
-c {	
+a2 {	
   "text":"wall",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHPyX3r7YT0UopIkX88oK9F8cLuyj4x79c6lk2WtWRH5gQQ7KsC3OKTQb4KPJT60z0sGJ6YU57PLLbiCDbQSrAaFs16S2wiSI8SOqBhJ3nKPHZsnIDTuPuPQvilnOaUXSCHvol4xLGHo56/s563/internet_firewall3.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
   sentence {	
   "text":"The ball fell from the tall wall.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 4 {	
   "text":"phonics reading challenge 4",
@@ -114,10 +189,35 @@ e {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAQDh6QfZxKCZC50H3d8eeLPvdMVGllX1lABchWwk3xc1Fqjjkm48_mq0pELxEeK_tQwDEyMgY6dxhIa-7PvP_CEyaunT1hgPyr3RjYZbj6ElDHvYEi9fPUvmFCwXhHSbGwWLt9BAu8UG9/s1600/body_sekkekyuu_kyuu.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"The bed's legs are red.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 5 {	
   "text":"phonics reading challenge 5",
@@ -144,10 +244,35 @@ ee {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpqy4lZlKBo6VgFAwjEXkmYLA0uG3i0l8YhHJE4bu88kS58Mw3oZIAAtGG6y6fj48hz11yZoUv8MSUUyKgxb-R1NfbGTlw1oO3ZCGalEsHlUvc6OCSZT63c5rUnEUhsV-A_NXMrzfC5Zw/s800/tree_keyaki.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"The three bees are on the tree.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 6 {	
   "text":"phonics reading challenge 6",
@@ -174,10 +299,35 @@ f {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIS1ecAo372Zl_AMIF_MFcwUFsX3TTpjKCZ84gWKEHaGLkRcuY3oKRS740UnxLQPHNpgCERdzoDxVOk-Pefu5zF3ZROZ9Bk0b5_JoT31RJIIYvQWQQkWUqAyx1a4otIltLgrx5vLLjMygj/s180-c/hangrider_man.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"The fox and the fish want to fly.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 7{	
   "text":"phonics reading challenge 7",
@@ -204,10 +354,35 @@ g {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgefcXP5ruTCDZT5bKUmcSYafMwkG3PFK0XSgnWYkEne86eUMalrz5nxX8LNeFY8pY_8C2Bi7E5Nx0F_h-B9ofYamGNSHPZo4vUijaHIMZkZrbr6zl42uEwFyVy8TDBPgYssNA3hxOIBUaf/s800/kusa_simple4.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"The goat ate the green grass.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 8 {	
   "text":"phonics reading challenge 8",
@@ -234,10 +409,35 @@ h {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjajiif4T24p4Y-c16dCtLDsb88aUaq9-Z-E-4Vapj1HhzIznR1SymNzHb5tmYJJ8BUsZTWE_twe_oy_UaWcgWnwbUAiI1hRJKAeUpZZ2IXf18JedceEXzyXnKbjCSIL__N7cYatLCnwUgY/s800/fashion_tsuugakubou_hat.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"The horse has a funny hat.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 9 {	
   "text":"phonics reading challenge 9",
@@ -264,10 +464,35 @@ i {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizJCaYR_QJRUxCki5zB-tbr16mp1zhwdOy89q10D5l-QWuHXO9MkdFrXCO3t9WEaLBeiGN07r3AEWOKLhZSrrgM3O7pO6VeU-weJTNadVi0ywKfJzP6fy7hn5yWh9HFpcDLY0cpLH43URg/s180-c/soccer_boy_brazil_asia.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"The pig with the wig likes Tim.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 10 {	
   "text":"phonics reading challenge 10",
@@ -294,10 +519,35 @@ j {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUEIW2iKJfNh9FewoRfxzgv17epoMBOhHdcCWi6ZOJhSm9rYzT_VO2yAX_t_CFBToegADHQbB1u2KvWTwM7CHfir19GcfJpUEk1OwAoHzzEuQDHZfaCoQtON_H1RHmKbOMDtZnLPPxd-0/s800/jam05_lemon.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"Jack wants to buy a jar of jam.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 11 {	
   "text":"phonics reading challenge 11",
@@ -324,10 +574,35 @@ k {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPBeIR9BoWjibPBx7x_3XCfg5ZiQfdj6tBznNxKK2KfmZH17gLxEHEoBFHPhhnf9TKjd0dmvpCQ_HgKgUTmaN7B0xNM16T_BT0mnAs-VHqSuvKUNQWV6AON83KeOmyiwvh5dvgHmtafHUX/s841/animal_kangaroo.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"The king kissed a kangaroo.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 12 {	
   "text":"phonics reading challenge 12",
@@ -354,10 +629,35 @@ l {
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSwpL-_uEFYqGChhA8-QbXHGF0OOx3-95oQ&s",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"Lily loves lizards.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 13 {	
   "text":"phonics reading challenge 13",
@@ -384,10 +684,35 @@ m {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9FJJj_mZY_zDsaoFu1BQmVIOnr3jHPzWqaCybt4UGwM2eoskIO4eoid3rPxy3aQiJmMeB-3GSnRGCvZ2KdyognbO7yIVEYCib1cky-ccA1ityozGq5tIK0JSLMcWnFBfdCl5V7f2RKhI/s800/sweets_drink_shake_chocolate.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"My mother makes milkshakes.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 14 {	
   "text":"phonics reading challenge 14",
@@ -414,10 +739,35 @@ n {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE1HneKffJj_w0mhoeoI6pOhAKwObm96o5rNgIS4axLM33dUfJ2kSOChT_jxhApt-fre5ggfQrNYIUFiyemgRaWdxmh2bv7jx_Wfm_lckMiUL7yzY0WLyV9QsEfMEzjt6RxA66VmqPMI8/s800/zabuton_book_notebook.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"Ninety-nine new notebooks.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 15 {	
   "text":"phonics reading challenge 15",
@@ -444,10 +794,35 @@ o {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYEztThTEEs7a9CGWHKmvt9jIjRK1mfXNTISEjP4TzjPi-Mii11rCOb4q1rxCUoUutU_TLE2QygJn5Q-upA9M-d6t59_Q5NI68KHhc5KtYX6m0Zer3tyabL81aAhFWmngPWnvP15ieVW_Q/s800/fruit_orange2.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"The octopus from the ocean loves oranges.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 16 {	
   "text":"phonics reading challenge 16",
@@ -474,10 +849,35 @@ p {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC2wVYmyFyf4T7N397O8-WUS-wY8pKegByew1hC9k5NxaXMDrQuTvkRFaeUZ091ckRvMDx7odFICtjo-bR25JDyn1lpXVLrb5dMozWLN4QNgQb8iksAersK_XXfwOmEZ9YWumSGMaaHskB/s800/music_piano.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"Peter Pan plays the piano.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 17 {	
   "text":"phonics reading challenge 17",
@@ -504,10 +904,35 @@ q {
   "image": "https://thumb.ac-illust.com/bc/bc51ba732459962a0fc8ba49e5f773e4_t.jpeg",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"The queen ate the quail eggs quickly.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 18 {	
   "text":"phonics reading challenge 18",
@@ -534,13 +959,38 @@ r {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid3FGDbGAcMUj3Ws4Wvs7PrJGX06f3Q9gVmzkLsSRtVRQrDgZhS3JYJoT8oJ98KY1_YFiE0yOZS7DujbXj8uvhwpP-jefHnqldgeIQeJrhyoJM-EwWMAkECM86SiOu2aYm-Y0Xx56vDVBv/s800/bg_rain_natural_sougen.jpg",
   "type": "type2"
 }
-19 {	
-  "text":"phonics reading challenge 19",
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
   "image": "",
   "type": "type1"
 },
 sentence {	
   "text":"Ryan saw a rainbow after the rain.",
+  "image": "",
+  "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
+},
+19 {	
+  "text":"phonics reading challenge 19",
   "image": "",
   "type": "type1"
 },
@@ -564,10 +1014,35 @@ s {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDuIU_LBTIUYDZ1i2v7DmtOrH2gOaTYbh-Gd1PormzdXC07o5HXVBETqIBLuDJfwNlUUSZSygSv4smSrDh9IjMQZ6vVeVPRw57FkZ-HQPn6zYNVkvWHQWkwYAlTWNvmbD49v3n_OQ9pns/s800/food_niku_salami.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"She sells salami.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 20 {	
   "text":"phonics reading challenge 20",
@@ -594,10 +1069,35 @@ t {
   "image": "https://png.pngtree.com/png-clipart/20230825/original/pngtree-tiger-tail-design-vector-illustration-picture-image_8481113.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"She touched the tiger's tail.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 21 {	
   "text":"phonics reading challenge 21",
@@ -624,10 +1124,35 @@ u {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFCMOABw3RNjT0oHfYeS6Io2azmqt6OXudegzsVpksOW52TGvGn3q1JEpqshhEK1lL3ESrXeeG81tUXj9qfRntGNbpKg63Gr9ICt7gHuVKaw1b982F_lF1x8VjcGTy1mCM0zsIp8pek34/s800/car_bus_tokyu.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"The duck had fun in the bus.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 22 {	
   "text":"phonics reading challenge 22",
@@ -654,10 +1179,35 @@ v {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfVuxrdr8lJtgGfSkgWrQ1D9t94AAERNEEJMgctzhSr1ka32L6PFj21zZnysmPYs29YLzoI3ipzJoU4xmBYN5Nif5PoqAWFvI4WmQwe9cVTvtsc0mqtsk85Q3SSV7IJlz166nNJb33jhsZ/w1200-h630-p-k-no-nu/car_slide_door.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"The violet violin is in the van.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 23 {	
   "text":"phonics reading challenge 23",
@@ -684,10 +1234,35 @@ w {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcz6CLn1iHUeTSrZWlJym-AvdVkM-p9p-JakM8O2zlLG5SK2huWJkJRVqAwKmH9Y6TRVT0U6mTWOazwxAP3eYwKZhmxlelkrLyFwYudXINXsh2jcI-OFbl-zh9TUKnuo8J3wvALY1pQhVS/s180-c/fruit_suika_red.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"Winnie wants some watermelons.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 24 {	
   "text":"phonics reading challenge 24",
@@ -714,10 +1289,35 @@ x {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg89w3KvY7AZtd4UV4n2dPHidmk6v-e-bIC2T4JOyxj6pZfy7yHXfa2U7ThJm8ULwfPyEgVtZqAeDXMO9O8c-ziGEX2OpeAy6P09EE3K6gHU6atoctK2CzisYa5GQpSu1LrOfzcGi1EDk_o/s800/hair_wax.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"The fox gave me a box of wax.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 25 {	
   "text":"phonics reading challenge 25",
@@ -744,10 +1344,35 @@ y {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNvriUxU1FtJkaZB_nqq8_vnjBQLokOx5dKR7fYHGYPP6eL45QvQJ0_GOUDTqENWACa3b9VYSiQ_zSRgbj9WnekbfRHMSGr0bOGobjMPfUFBi39zU9FxSGYVrvi9yJZ45Ym9-NHR9cjGk/s180-c/food_yogurt.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"Yuri ate the yummy yogurt.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 26 {	
   "text":"phonics reading challenge 26",
@@ -774,10 +1399,35 @@ z {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhpV95Ej2mdxHXuTC-0-_rSYE4KSxfZrQf_VvOHcDa8yMEfPZoeTt26vFL9xd6Jp2MRFYBoozZ5I1wLQtbivunmPP7slNfmWGIAk1kfLIT0upxymSB64ZA5EhyPe36OR9dYPgUkDKryjzl/s800/zoo_doubutsuen.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"Zaira saw a zebra at the the zoo.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 27 {	
   "text":"phonics reading challenge 27",
@@ -804,10 +1454,35 @@ ch {
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wWUjRu5YO5X3Jn2WCpynSr6hc6ztzBgqzA&s",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"Chiaki wants chocolate chip cookies.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 28 {	
   "text":"phonics reading challenge 28",
@@ -834,10 +1509,35 @@ th {
   "image": "https://i.pinimg.com/736x/ce/67/49/ce67499b768cf503beeaef66ac7b0c65.jpg",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"Three thick thumbs are up.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 29 {	
   "text":"phonics reading challenge 29",
@@ -864,10 +1564,35 @@ th {
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR9XlRWIvjqDOqi-5CM29RRkJQmebCbqP6EQ&s",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"My mother gave them the box.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 30 {	
   "text":"phonics reading challenge 30",
@@ -894,10 +1619,35 @@ sh {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-ZUA7j4RRzF2BCN_JWWV-JziSlDbdRgfNikPDr58k103OEcUrIXM1ioSP0Mj9Sh5_ioSUbjILAQlIY2613ngcUhdMasp1LpRhmpMGbcX8ZAMehIKjuDXfo2qEpt4iTzcjaocFJ7B_2jxL/w1200-h630-p-k-no-nu/tanker_genyu_front.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"She saw the shark in the ship.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 31 {	
   "text":"phonics reading challenge 31",
@@ -924,10 +1674,35 @@ tch {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMjNdIpcaUF9Cs8r2vEtYmBOnb9wJxVKvXGUvVLUhrQjpP9Myw4SUtBkdrgUrI1eFcfgFlo3EC5agj2cIwsnm-Q0ov_IyH_hSzOERSr255tPDRTZTtOz2g-T89gEiniA1miaRy2Sx2Iso/s180-c/soccer_catch.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"I watched a witch catch a fish.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 32 {	
   "text":"phonics reading challenge 32",
@@ -954,10 +1729,35 @@ ck {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEqNkbGIsTG4VPiKE8V7W3Nnz8ZQckZmQomYo8x-_VkMNOZEn16enP4GMdYv1aLP2TsWArxnql-40knrx8A2OQgiQuFZEjzz5gMftddGT-h8R5mZGZyyy5JnfApCCCkijM5hSXk_CakNk/s800/bird_magamo.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"I packed a snack for the duck.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 33 {	
   "text":"phonics reading challenge 33",
@@ -984,10 +1784,35 @@ ng {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTY0e8DSla2vG2gq2uWdUBq-KNmCi_jqjOSAnkJtRQQtAR4Rc8-SKhxs5IYkb47H02kNTI5qndpcbUPte5_2lpHLpZgqpKam1l60CFTW-plhYEBG3GVU62JONV2QsxBXuER4Fa7MKR7tyZ/s180-c/opera_singer_man.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"The king with wings likes to sing.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 35 {	
   "text":"phonics reading challenge 34",
@@ -1014,10 +1839,35 @@ wh {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHPcP6xrmJK-5gGNeSgRn-NUzgRQ2m1kDZercce1CjGuiF1700SCMa4oixBjNjpHRADFpn0t4yXkR7sP5eQBWyebl69Pg_XynrxqojY7keQUIPoA9SwuEsfN4ZnYC9hMs8W1gizd0D4QA/w1200-h630-p-k-no-nu/whale_09_minkukujira.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"Where is the white whale?",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 35 {	
   "text":"phonics reading challenge 35",
@@ -1044,10 +1894,35 @@ ink {
   "image": "",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"The pink drink stinks.",
   "image": "",
   "type": "type1"
+},
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
 },
 36 {	
   "text":"phonics reading challenge 36",
@@ -1074,9 +1949,34 @@ oo {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjacWeOQ3GmWHnF_z9EZFvaQbIrtcRgJ6huFNRZZ3hYcMNI6uOcuNQgJTsdG_yFqsfvMMtfrc2hxPUFydTftxv0ST4T_byQ5yhgbcZqXNtOLSEXrzxFjqXxdWz066qkBMr_IEBqt-Gy6sJ-/s800/book_tate.png",
   "type": "type2"
 }
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
+lets {  
+  "text":"Let's go!",
+  "image": "",
+  "type": "type1"
+},
 sentence {	
   "text":"I gave a baboon a ballon and a book.",
   "image": "",
   "type": "type1"
 }
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
+},
 ]
