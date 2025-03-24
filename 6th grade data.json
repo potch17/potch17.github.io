@@ -54,6 +54,11 @@ sentence {
   "image": "",
   "type": "type1"
 },
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
+  "type": "type1"
+},
 2 {	
   "text":"phonics reading challenge 2",
   "image": "",
@@ -174,6 +179,11 @@ sentence {
   "image": "",
   "type": "type1"
 },
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
+  "type": "type1"
+},
 4 {	
   "text":"phonics reading challenge 4",
   "image": "",
@@ -189,7 +199,7 @@ o {
   "image": "https://images.assetsdelivery.com/compings_v2/skywears/skywears2203/skywears220300141.jpg",
   "type": "type2"
 }
-  o {	
+o {	
   "text":"octopus",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVplrYZGmS5o44ghsmVJMc3E8FUgn2FuFWepX4V8wcbTqhWt38zHINneva2t7VdTB7rRGewL1Qjd52HgpHnFveMGdihrT91EzylYje0PWd3o1DqimYTehdtTFm6Dp0aSoVd6pnWOjIQLo/s800/fish_tako_oyogu.png",
   "type": "type2"
@@ -232,6 +242,11 @@ pair {
 sentence {	
   "text":"The ox baked an octopus in the oven.",
   "image": "",
+  "type": "type1"
+},
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
   "type": "type1"
 },
 5 {	
@@ -294,6 +309,11 @@ sentence {
   "image": "",
   "type": "type1"
 },
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
+  "type": "type1"
+},
 6 {	
   "text":"phonics reading challenge 6",
   "image": "",
@@ -349,9 +369,14 @@ pair {
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
 },
-  sentence {	
+sentence {	
   "text":"The duck had fun in the bus.",
   "image": "",
+  "type": "type1"
+},
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
   "type": "type1"
 },
 7{	
@@ -414,6 +439,11 @@ sentence {
   "image": "",
   "type": "type1"
 },
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
+  "type": "type1"
+},
 8 {	
   "text":"phonics reading challenge 8",
   "image": "",
@@ -464,15 +494,20 @@ sentence {
   "image": "",
   "type": "type1"
 },
-sentence {	
-  "text":"Please pay for the clay on the tray.",
-  "image": "",
-  "type": "type1"
-},
 pair {
   "text":"Pair Duel",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
   "type": "type2"
+},
+sentence {	
+  "text":"Please pay for the clay on the tray.",
+  "image": "",
+  "type": "type1"
+},  
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
+  "type": "type1"
 },
 9 {	
   "text":"phonics reading challenge 9",
@@ -532,6 +567,11 @@ pair {
 sentence {	
   "text":"The snake's face fell on the cake.",
   "image": "",
+  "type": "type1"
+},
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
   "type": "type1"
 },
 10 {	
@@ -594,6 +634,11 @@ sentence {
   "image": "",
   "type": "type1"
 },
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
+  "type": "type1"
+},
 11 {	
   "text":"phonics reading challenge 11",
   "image": "",
@@ -654,6 +699,11 @@ sentence {
   "image": "",
   "type": "type1"
 },
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
+  "type": "type1"
+},
 12 {	
   "text":"phonics reading challenge 12",
   "image": "",
@@ -704,15 +754,20 @@ sentence {
   "image": "",
   "type": "type1"
 },
+pair {
+  "text":"Pair Duel",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
+  "type": "type2"
+},
 sentence {	
   "text":"He has bread on his sweaty head.",
   "image": "",
   "type": "type1"
 },
-pair {
-  "text":"Pair Duel",
-  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWl6YWqG0_Ochdnocs-2y2etr0abA0KtjAju3-S8CD0Ln65mBYGTGcVGQg4cgWdjpzYPdtefajfJ1VndoO9embFmh1WaGb9A3pvWSOdPxVIvaRKIsdn8_sCnw35tAMVWN6JvEpO-H96s/s800/text_versus_vs.png",
-  "type": "type2"
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
+  "type": "type1"
 },
 13 {	
   "text":"phonics reading challenge 13",
@@ -774,6 +829,11 @@ sentence {
   "image": "",
   "type": "type1"
 },
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
+  "type": "type1"
+},
 14 {	
   "text":"phonics reading challenge 14",
   "image": "",
@@ -832,6 +892,11 @@ pair {
 sentence {	
   "text":"Her shout scared the mouse on the couch.",
   "image": "",
+  "type": "type1"
+},
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
   "type": "type1"
 },
 15 {	
@@ -914,6 +979,11 @@ sentence {
   "image": "",
   "type": "type1"
 },
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
+  "type": "type1"
+},
 16 {	
   "text":"phonics reading challenge 16",
   "image": "",
@@ -972,6 +1042,11 @@ pair {
 sentence {	
   "text":"The boy bought an oyster and a toy.",
   "image": "",
+  "type": "type1"
+},
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
   "type": "type1"
 },
 17 {	
@@ -1094,6 +1169,11 @@ sentence {
   "image": "",
   "type": "type1"
 },
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
+  "type": "type1"
+},
 19 {	
   "text":"phonics reading challenge 19",
   "image": "",
@@ -1152,6 +1232,11 @@ pair {
 sentence {	
   "text":"She sells salami.",
   "image": "",
+  "type": "type1"
+},
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
   "type": "type1"
 },
 20 {	
@@ -1214,6 +1299,11 @@ sentence {
   "image": "",
   "type": "type1"
 },
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
+  "type": "type1"
+},
 21 {	
   "text":"phonics reading challenge 21",
   "image": "",
@@ -1274,6 +1364,11 @@ sentence {
   "image": "",
   "type": "type1"
 },
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
+  "type": "type1"
+},
 22 {	
   "text":"phonics reading challenge 22",
   "image": "",
@@ -1332,6 +1427,11 @@ pair {
 sentence {	
   "text":"The violet violin is in the van.",
   "image": "",
+  "type": "type1"
+},
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
   "type": "type1"
 },
 23 {	
@@ -1399,6 +1499,11 @@ sentence {
   "image": "",
   "type": "type1"
 },
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
+  "type": "type1"
+},
 x {	
   "text":"x",
   "image": "",
@@ -1452,6 +1557,11 @@ pair {
 sentence {	
   "text":"The fox gave me a box of wax.",
   "image": "",
+  "type": "type1"
+},
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
   "type": "type1"
 },
 25 {	
@@ -1514,6 +1624,11 @@ sentence {
   "image": "",
   "type": "type1"
 },
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
+  "type": "type1"
+},
 26 {	
   "text":"phonics reading challenge 26",
   "image": "",
@@ -1572,6 +1687,11 @@ pair {
 sentence {	
   "text":"Zaira saw a zebra at the the zoo.",
   "image": "",
+  "type": "type1"
+},
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
   "type": "type1"
 },
 27 {	
@@ -1634,6 +1754,11 @@ sentence {
   "image": "",
   "type": "type1"
 },
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
+  "type": "type1"
+},
 28 {	
   "text":"phonics reading challenge 28",
   "image": "",
@@ -1692,6 +1817,11 @@ pair {
 sentence {	
   "text":"Three thick thumbs are up.",
   "image": "",
+  "type": "type1"
+},
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
   "type": "type1"
 },
 29 {	
@@ -1754,6 +1884,11 @@ sentence {
   "image": "",
   "type": "type1"
 },
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
+  "type": "type1"
+},
 30 {	
   "text":"phonics reading challenge 30",
   "image": "",
@@ -1812,6 +1947,11 @@ pair {
 sentence {	
   "text":"She saw the shark in the ship.",
   "image": "",
+  "type": "type1"
+},
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
   "type": "type1"
 },
 31 {	
@@ -1874,6 +2014,11 @@ sentence {
   "image": "",
   "type": "type1"
 },
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
+  "type": "type1"
+},
 32 {	
   "text":"phonics reading challenge 32",
   "image": "",
@@ -1932,6 +2077,11 @@ pair {
 sentence {	
   "text":"I packed a snack for the duck.",
   "image": "",
+  "type": "type1"
+},
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
   "type": "type1"
 },
 33 {	
@@ -1994,6 +2144,11 @@ sentence {
   "image": "",
   "type": "type1"
 },
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
+  "type": "type1"
+},
 35 {	
   "text":"phonics reading challenge 34",
   "image": "",
@@ -2052,6 +2207,11 @@ pair {
 sentence {	
   "text":"Where is the white whale?",
   "image": "",
+  "type": "type1"
+},
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
   "type": "type1"
 },
 35 {	
@@ -2114,6 +2274,11 @@ sentence {
   "image": "",
   "type": "type1"
 },
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
+  "type": "type1"
+},
 36 {	
   "text":"phonics reading challenge 36",
   "image": "",
@@ -2172,6 +2337,11 @@ pair {
 sentence {	
   "text":"I gave a baboon a ballon and a book.",
   "image": "",
+  "type": "type1"
+},
+good {	
+  "text":"Good job!",
+  "image": "https://www.gifcen.com/wp-content/uploads/2023/07/good-job-gif-1.gif",
   "type": "type1"
 },
 ]
